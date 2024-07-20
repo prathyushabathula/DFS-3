@@ -1,3 +1,7 @@
+//Time Complexity : O(4^n)
+//Space Complexity : O(1)
+//Did this code run successfully on leetcode: Yes
+//Have you face any issue while writing this code: No
 class MatchSticksToSquare {
     public boolean makesquare(int[] matchsticks) {
         int total = 0;
